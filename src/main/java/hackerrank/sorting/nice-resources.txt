@@ -1,0 +1,2 @@
+# sorting algorithms visualized
+https://www.toptal.com/developers/sorting-algorithms

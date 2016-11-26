@@ -23,7 +23,6 @@ public class InsertionSortPart1 {
 		printArray(ar);
 	}
 
-	/* Tail starts here */
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int s = in.nextInt();
